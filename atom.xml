@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>...oktak</title>
+  <title>...Omar Kan</title>
   <subtitle>Need it but haven&#39;t, then no need</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://oktak.github.io/"/>
+  <link href="https://oktak.github.io/"/>
   <updated>2018-01-19T16:02:27.541Z</updated>
-  <id>http://oktak.github.io/</id>
+  <id>https://oktak.github.io/</id>
   
   <author>
     <name>Omar Kan</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Have you listened to Serrini? Now you have!</title>
-    <link href="http://oktak.github.io/2018/01/17/have-you-listened-to-serrini/"/>
-    <id>http://oktak.github.io/2018/01/17/have-you-listened-to-serrini/</id>
+    <link href="https://oktak.github.io/2018/01/17/have-you-listened-to-serrini/"/>
+    <id>https://oktak.github.io/2018/01/17/have-you-listened-to-serrini/</id>
     <published>2018-01-16T19:48:55.000Z</published>
     <updated>2018-01-19T16:02:27.541Z</updated>
     
@@ -105,14 +105,14 @@
     </summary>
     
     
-      <category term="my-thought, music, serrini" scheme="http://oktak.github.io/tags/my-thought-music-serrini/"/>
+      <category term="my-thought, music, serrini" scheme="https://oktak.github.io/tags/my-thought-music-serrini/"/>
     
   </entry>
   
   <entry>
     <title>Good new start</title>
-    <link href="http://oktak.github.io/2017/07/14/good-new-start/"/>
-    <id>http://oktak.github.io/2017/07/14/good-new-start/</id>
+    <link href="https://oktak.github.io/2017/07/14/good-new-start/"/>
+    <id>https://oktak.github.io/2017/07/14/good-new-start/</id>
     <published>2017-07-14T13:59:55.000Z</published>
     <updated>2017-07-14T15:22:35.544Z</updated>
     
@@ -137,7 +137,7 @@
     </summary>
     
     
-      <category term="my-thought" scheme="http://oktak.github.io/tags/my-thought/"/>
+      <category term="my-thought" scheme="https://oktak.github.io/tags/my-thought/"/>
     
   </entry>
   
