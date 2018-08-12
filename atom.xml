@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://oktak.github.io/"/>
-  <updated>2018-01-19T16:02:27.541Z</updated>
+  <updated>2018-08-12T17:51:34.792Z</updated>
   <id>https://oktak.github.io/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AR is coming to town</title>
+    <link href="https://oktak.github.io/2018/08/13/AR-is-coming-to-town/"/>
+    <id>https://oktak.github.io/2018/08/13/AR-is-coming-to-town/</id>
+    <published>2018-08-12T17:41:52.000Z</published>
+    <updated>2018-08-12T17:51:34.792Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>TL;DR</p>
+<ol>
+<li>AR should be ready NOW</li>
+<li>3D model design is uneasy</li>
+<li>Feel Free to see my demo~</li>
+</ol>
+</blockquote>
+<p>AR(Augmented Reality) has over more than ten years of history. My first touch was the ARToolKit, using VGA WebCam. And now there are AR.js on browsers, ARKit for Apple devices, ARCore for Google’s… Now I would have a taste on AR.js.</p>
+<p><img src="/uploads/2018/08/ar_taste_thumbnail.jpg" alt="A Duck is on the phone!"></p>
+<p>Here is the demo: <a href="https://ok.duckdns.org/ar/01.html" target="_blank" rel="external">https://ok.duckdns.org/ar/01.html</a><br><img src="/uploads/2018/08/ar_taste_marker.png" alt="Open the link above in mobile browsers, and shoot the marker above"></p>
+<p><a href="https://ok.duckdns.org/ar/" target="_blank" rel="external">To whom it may be worth it, click this.</a></p>
+<a id="more"></a>
+<h1 id="How-AR-will-appear-in-life"><a href="#How-AR-will-appear-in-life" class="headerlink" title="How AR will appear in life?"></a>How AR will appear in life?</h1><p>《Denno Coil》（日語：電脳コイル／中凙：電腦線圈）is a nice story that illustrates how the AR technology immerses into our daily life. The ending is touchy. サッチー（Search）is so cute too.</p>
+<p><img src="/uploads/2018/08/ar_taste_coil.png" alt="《Denno Coil》"></p>
+<p>P.S. 3D Modeling is hard, Texture is even harder!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      AR(Augmented Reality) has over more than ten years of history. My first touch is the ARToolKit. And now there are AR.js on browsers, ARKit for Apple devices, ARCore for Google&#39;s... Now I would have a taste on AR.js
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Have you listened to Serrini? Now you have!</title>
